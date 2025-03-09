@@ -2,7 +2,7 @@ import time
 
 def main():
   print('ansible-hipy2 start')
-  time.sleep(60 * 2)
+  time.sleep(60 * 0.2)
   print('ansible-hipy2 end')
 
 
